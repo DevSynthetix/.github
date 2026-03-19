@@ -6,7 +6,7 @@
 
 
 
-  <img src="https://github.com/DevSynthetix-Labs/.github/edit/main/profile/README.md" width="80" />
+  <img src="https://github.com/DevSynthetix-Labs/.github/logo/logo.png" width="80" />
 
   <h2>DevSynthetix Lab</h2>
 
